@@ -1,4 +1,2 @@
 # Bike-Sharing-Demand
-<h3>In this notebook, we will try to predict the number of total rentals using different machine learning algorithms.
-Before this one, we will do feature engineering and exploratory data analysis for examining the data.</h3>
-
+<h4>In this machine learning project, We are provided with a dataset which contains the different features such as weather, windspeed, temperature etc. as well as two columns containing the number of casual and registered and total number of bikes rented for two years and we are required to predict the total bike demand using different machine learning algorithms. Before this one, we will do feature engineering and exploratory data analysis for examining the data.</h4>
